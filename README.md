@@ -18,7 +18,7 @@ Este proyecto realiza un análisis exploratorio y descriptivo de la **evasión d
 1. Clonar este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/churn-analysis.git
+   git clone https://github.com/Nicolasmorahernandez/Challenger_TelecomX
    cd churn-analysis
    ```
 2. Instalar requerimientos (en entorno virtual recomendado):
